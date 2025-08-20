@@ -26,11 +26,13 @@
 
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
-<h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+## Connect with me 🤝 </h3>
 
 <a href="https://www.linkedin.com/in/mateo-liberatore">
 <img src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
 </a>
+<br/>
 
 ## 🛠️ My Skills
 
