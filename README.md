@@ -31,10 +31,6 @@
 <a href="https://www.linkedin.com/in/mateo-liberatore">
 <img src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
 </a>
-<a href="mailto:liberatoremate98@gmail.com">
-<img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
-</a>
-
 
 ## 🛠️ My Skills
 
