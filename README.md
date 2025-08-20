@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Software Development**
 
-- 📫 How to reach me **liberatoremate98@gmail.com**
+- 📫 How to reach me: **liberatoremate98@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/MateoLiberatore/MateoLiberatore/blob/main/MateoLiberatore_cv.pdf" target="blank">Resume</a>
 <br/>
