@@ -27,13 +27,13 @@
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mateo-liberatore" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="mailto:liberatoremate98@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
-  </a>
-</p>>
+  <a href="https://www.linkedin.com/in/mateo-liberatore" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
+  </a>
+  <a href="mailto:liberatoremate98@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"/>
+  </a>
+</p>
 
 
 ## 🛠️ My Skills
