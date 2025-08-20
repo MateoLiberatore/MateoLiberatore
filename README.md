@@ -1,5 +1,46 @@
 <h1 align="center">Hi , I'm Mateo Liberatore <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<h3 align="center">System Analyst student from Mar del Plata, Argentina</h3>
+
+<br>
+<br>
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 I’m currently working in my final career projects
+
+- 🌱 I’m currently Working on a Data Science project (soon I will upload a repo. with it)
+
+- 🤝 I’m available for working.
+
+- 🌱 I’m currently learning more about front-end (REACT & VITE) to make a full-stack project
+
+- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **liberatoremate98@gmail.com**
+
+- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank">
+    <img align="center"
+      src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn" height="30"/>
+  </a>
+  <a href="mailto:liberatoremate98@gmail.com">
+    <img align="center"
+      src="https://img.shields.io/badge/email-liberatoremate98@gmail.com-blue.svg?style=for-the-badge&logo=Mail.ru&logoColor=white"
+      alt="Email" height="30"/>
+  </a>
+</p>
+
+
+
 ## 🛠️ My Skills
 
 
