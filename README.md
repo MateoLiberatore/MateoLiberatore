@@ -14,13 +14,13 @@
 
 - 🌱 I’m currently Working on a Data Science project (soon I will upload a repo. with it)
 
-- 🤝 I’m available for working.
+- 🤝 I’m available to work.
 
 - 🌱 I’m currently learning more about front-end (REACT & VITE) to make a full-stack project
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly consult Python manuals to deepen my knowledge
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **liberatoremate98@gmail.com**
 
