@@ -25,7 +25,6 @@
 - 📫 How to reach me: **liberatoremate98@gmail.com**
 
 - 📄 Know about my experiences <a href="https://github.com/MateoLiberatore/MateoLiberatore/blob/main/Mateo-Liberatore-cv.pdf" target="blank">Resume</a>
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
 <br/>
 
 ## Connect with me 🤝 </h3>
