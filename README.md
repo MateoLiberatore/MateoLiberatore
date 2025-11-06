@@ -12,11 +12,9 @@
 
 - 🔭 I’m currently working in my final career projects
 
-- 🌱 I’m currently Working on a Data Science project (soon I will upload a repo. with it)
+- 🤝 Allways available to work.
 
-- 🤝 I’m available to work.
-
-- 🌱 I’m currently learning more about front-end (REACT & VITE) to make a full-stack project
+- 🌱 I’m currently learning more about front-end (REACT & VITE) and Tailwind CSS for being able to create end-to-end projects
 
 - 📝 I regularly consult Python manuals to deepen my knowledge
 
