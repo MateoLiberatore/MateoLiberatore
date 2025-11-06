@@ -14,7 +14,7 @@
 
 - 🤝 Allways available to work.
 
-- 🌱 I’m currently learning more about front-end (REACT & VITE) and Tailwind CSS for being able to create end-to-end projects
+- 🌱 I’m currently learning more about React and Tailwind CSS to create end-to-end projects
 
 - 📝 I regularly consult Python manuals to deepen my knowledge
 
